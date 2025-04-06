@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="650" viewBox="0 0 1000 650" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Base world map in gray -->
+  <path d="M150 100 C200 50, 300 50, 350 100 L400 150 L450 200..." fill="#333333" fillOpacity="0.2"/>
+  
+  <!-- Highlighted regions in neon green -->
+  <!-- North America -->
+  <path d="M100 100 L300 100 L350 200 L200 250 L100 200 Z" fill="#c8ff00" fillOpacity="0.15"/>
+  
+  <!-- Europe -->
+  <path d="M450 100 L550 100 L600 150 L500 200 L450 150 Z" fill="#c8ff00" fillOpacity="0.15"/>
+  
+  <!-- Asia/Middle East -->
+  <path d="M600 150 L700 150 L750 200 L650 250 L600 200 Z" fill="#c8ff00" fillOpacity="0.15"/>
+  
+  <!-- Southeast Asia -->
+  <path d="M700 200 L800 200 L850 250 L750 300 L700 250 Z" fill="#c8ff00" fillOpacity="0.15"/>
+  
+  <!-- Australia -->
+  <path d="M750 350 L850 350 L900 400 L800 450 L750 400 Z" fill="#c8ff00" fillOpacity="0.15"/>
+  
+  <!-- Africa -->
+  <path d="M450 200 L550 200 L600 300 L500 350 L450 300 Z" fill="#c8ff00" fillOpacity="0.15"/>
+</svg> 

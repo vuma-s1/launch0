@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M250 50
+           L400 125
+           L400 275
+           L250 350
+           L400 425
+           L400 475
+           L200 375
+           L200 225
+           L350 150
+           L200 75
+           L200 25
+           Z" 
+        fill="#c8ff00"/>
+  <path d="M200 25
+           L350 100
+           L350 250
+           L200 325
+           L350 400
+           L350 450
+           L150 350
+           L150 200
+           L300 125
+           L150 50
+           L150 0
+           Z" 
+        fill="#96bf00"/>
+</svg> 

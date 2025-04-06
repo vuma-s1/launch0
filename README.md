@@ -23,7 +23,7 @@ A modern, responsive landing page built with Next.js and Tailwind CSS, featuring
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/launch0.git
+git clone https://github.com/vuma-s1/launch0.git
 cd launch0
 ```
 
